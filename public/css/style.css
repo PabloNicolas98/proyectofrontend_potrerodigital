@@ -93,7 +93,7 @@ body{
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-    padding: 10px;
+    witdh: auto;
 }
 
 h1{
@@ -300,6 +300,7 @@ footer div span{
     color: var(--black);
 
 }
+
 
 
 
